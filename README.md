@@ -3,7 +3,7 @@
 This project is a self-directed assignment for UBC's Applied Machine Learning course (CPSC 330). The goal of the project was to practice machine learning fundamentals through working on a large dataset from Kaggle. My partner and I built and evaluated machine learning models to predict whether a credit card client will default on their payment. The dataset used for this task contained approximately 30,000 examples and 24 features.
 
 ### Overview
-In this project, I followed the fundamental machine learning pipeline, including **exploratory data analysis (EDA)**, **data splitting**, **cross-validation**, and **model evaluation**. I worked with the dataset using **Pandas** and **Scikit-learn**, applying multiple classification models to predict credit card default. The models tested include:
+In this project, we followed the fundamental machine learning pipeline, including **exploratory data analysis (EDA)**, **data splitting**, **cross-validation**, and **model evaluation**. We worked with the dataset using **Pandas** and **Scikit-learn**, applying multiple classification models to predict credit card default. The models tested include:
 
 - **Logistic Regression**
 - **Random Forests**
